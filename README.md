@@ -4,7 +4,7 @@ Track your learning progress by checking off each chapter as you complete it.
 
 ## Progress Checklist
 
-- [ ] Chapter 1: Algorithms Intro
+- [x] Chapter 1: Algorithms Intro
   - Learn what algorithms are and why they matter.
 
 - [ ] Chapter 2: Math
