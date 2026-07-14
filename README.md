@@ -7,7 +7,7 @@ Track your learning progress by checking off each chapter as you complete it.
 - [x] Chapter 1: Algorithms Intro
   - Learn what algorithms are and why they matter.
 
-- [ ] Chapter 2: Math
+- [x] Chapter 2: Math
   - Learn the math required for Big-O notation.
   - Exponents
   - Logarithms
