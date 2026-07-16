@@ -13,7 +13,7 @@ Track your learning progress by checking off each chapter as you complete it.
   - Logarithms
   - Factorials
 
-- [ ] Chapter 3: Big-O Analysis
+- [x] Chapter 3: Big-O Analysis
   - Understand Big-O notation.
   - Learn about time complexity.
   - Analyze algorithm performance.
