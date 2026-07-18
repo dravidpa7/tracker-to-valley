@@ -18,7 +18,7 @@ Track your learning progress by checking off each chapter as you complete it.
   - Learn about time complexity.
   - Analyze algorithm performance.
 
-- [ ] Chapter 4: Sorting Algorithms
+- [x] Chapter 4: Sorting Algorithms
   - Learn how computers sort data.
   - Understand common sorting algorithms.
   - Compare sorting performance.
