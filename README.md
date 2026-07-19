@@ -23,7 +23,7 @@ Track your learning progress by checking off each chapter as you complete it.
   - Understand common sorting algorithms.
   - Compare sorting performance.
 
-- [ ] Chapter 5: Exponential Time
+- [x] Chapter 5: Exponential Time
   - Understand exponential time complexity.
   - Learn why it becomes impractical for large inputs.
 
