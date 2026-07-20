@@ -27,7 +27,7 @@ Track your learning progress by checking off each chapter as you complete it.
   - Understand exponential time complexity.
   - Learn why it becomes impractical for large inputs.
 
-- [ ] Chapter 6: Data Structures Intro
+- [x] Chapter 6: Data Structures Intro
   - Learn what data structures are.
   - Understand why they are essential for efficient algorithms.
 
